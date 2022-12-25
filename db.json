@@ -1,0 +1,124 @@
+{
+  "characters": [
+    {
+      "id": "1",
+      "avatar": "/img/mk/sub-zero.jpg",
+      "results": {
+        "image": "/img/mk/sub-zero-person.pngs",
+        "name": "Sub-Zero",
+        "objective": "REDENÇÃO",
+        "description": "Grão-mestre do clã Lin Kuei. Kuai Liang venceu a morte para redimir seu clã do mal cometido por Sektor e pelos Lin Kuei cibernéticos. Ele reconstruiu os Lin Kuei e negociou a paz com os rivais Shirai Ryu. Agora, ele espera finalmente encerrar o capítulo pecaminoso do passado dos Lin Kuei."
+      }
+    },
+    {
+      "id": "2",
+      "avatar": "/img/mk/scorpion.jpg",
+      "results": {
+        "image": "/img/mk/scorpion-person.png",
+        "name": "Scorpion",
+        "objective": "VINGANÇA",
+        "description": "Grão-mestre Scorpion dos Shirai Ryu. Guiado pela fúria, Hanzo Hasashi passou por enormes dificuldades para vingar sua família e seu clã, sem descansar até acabar com o assassino Quan Chi. Ele agora lidera um novo clã Shirai Ryu, vingando aqueles que não podem se vingar."
+      }
+    },
+    {
+      "id": "3",
+      "avatar": "/img/mk/johnny-cage.jpg",
+      "results": {
+        "image": "/img/mk/Johnny_Cage-person.png",
+        "name": "Johnny Cage",
+        "objective": "VAIDADE",
+        "description": "Celebridade de segundo escalão que nunca recebeu qualquer prêmio como ator. Após uma série de continuações de baixo orçamento do filme Escolinha de Ninjas, Johnny Cage atingiu o auge da carreira aos 28 anos. Agora, ele luta contra todas as probabilidades para salvar o Plano Terreno e provar que é um herói ainda mais corajoso na vida real que nas telas."
+      }
+    },
+    {
+      "id": "4",
+      "avatar": "/img/mk/sonya-Blade.jpg",
+      "results": {
+        "image": "/img/mk/sonya-blade-person.png",
+        "name": "Sonya Blade",
+        "objective": "VIGILÂNCIA",
+        "description": "Oficial condecorada das Forças Especiais. Sonya enfrentou o torneio Mortal Kombat, defendeu o Plano Terreno e resgatou seu parceiro, Jax Briggs. Séria até demais, ela não descansa, preferindo manter a vigilância até que todos os planos estejam em segurança."
+      }
+    },
+    {
+      "id": "5",
+      "avatar": "/img/mk/shang-tsung.jpg",
+      "results": {
+        "image": "/img/mk/shang-tsung-person.png",
+        "name": "Shang Tsung",
+        "objective": "INFLUÊNCIA",
+        "description": "Feiticeiro de Almas e histórico anfitrião de Mortal Kombat. Nascido em Earthrealm, a busca incansável de Shang Tsung por magias mais poderosas o levou à Exoterra, onde Shao Kahn ofereceu a ele um poder sombrio que nenhum feiticeiro do Earthrealm poderia ter. Shang Tsung jurou lealdade eterna a Shao Kahn em troca dessa magia maligna, mas ele está longe de ser um servo fiel. Ele sonha com o dia em que seu poder superará a de Shao Kahn’s e vai pagar qualquer preço para que isso aconteça."
+      }
+    },
+    {
+      "id": "6",
+      "avatar": "/img/mk/Liu-Kang.jpg",
+      "results": {
+        "image": "/img/mk/Liu-Kang-Person.png",
+        "name": "Liu Kange",
+        "objective": "RESPONSABILIDADE",
+        "description": "Monge Shaolin e campeão do Plano Terreno. O órfão Liu Kang foi adotado e treinado nas artes do kombate pela ordem Shaolin. Ele honrou seus guardiões derrotando Shang Tsung no Mortal Kombat e salvando o Plano Terreno como o 'Escolhido', um título que é também um fardo."
+      }
+    },
+    {
+      "id": "7",
+      "avatar": "/img/mk/kitana.jpg",
+      "results": {
+        "image": "/img/mk/kitana-person.png",
+        "name": "Kitana",
+        "objective": "IDENTIDADE",
+        "description": "Assassina de 10.000 anos e princesa da Exoterra. Shao Kahn casou com a mãe de Kitana e criou a menina como sua herdeira, escondendo o fato de que assassinou o pai dela para conquistar Edenia. Agora que a verdade veio à tona, Kitana luta para vingar o pai.."
+      }
+    },
+    {
+      "id": "8",
+      "avatar": "/img/mk/raiden.jpg",
+      "results": {
+        "image": "/img/mk/raiden-person.png",
+        "name": "Raiden",
+        "objective": "SEGURANÇA",
+        "description": "Deus Imortal do Trovão, Protetor do Plano Terreno. Raiden salvou o Plano Terreno inúmeras vezes, convocando os guerreiros mais fortes e valentes da época para defendê-lo. Após séculos de kombate e carnificina, ele teme que haja consequências indesejadas para a humanidade e para si mesmo."
+      }
+    },
+    {
+      "id": "9",
+      "avatar": "/img/mk/mileena.jpg",
+      "results": {
+        "image": "/img/mk/mileena-person.png",
+        "name": "Mileena",
+        "objective": "IDENTIDADE",
+        "description": "Mileena é o produto dos diabolicos experimentos de clonagem do Shang Tsung: uma mistura perfeita da ferocidade Tarkatana com uma graciosidade atlética. Trazida adiante no tempo por Kronika, Mileena soube de seu trágico futuro. Seus inimigos agora devem se submeter a ela ou morrer."
+      }
+    },
+    {
+      "id": "10",
+      "avatar": "/img/mk/kung-lao.jpg",
+      "results": {
+        "image": "/img/mk/kung-lao-person.png",
+        "name": "Kung Lao",
+        "objective": "RESPEITO",
+        "description": "Monge Shaolin e descendente do Grande Kung Lao. O Kung Lao mais jovem conquistou a grandeza ao vencer a aliança mortal de Shang Tsung e Quan Chi no Mortal Kombat. Imprudente e rebelde, porém corajoso e indomável, Kung Lao luta para provar que é digno de seus gloriosos ancestrais."
+      }
+    },
+    {
+      "id": "11",
+      "avatar": "/img/mk/baraka.jpg",
+      "results": {
+        "image": "/img/mk/baraka-person.png",
+        "name": "Baraka",
+        "objective": "PRESERVAÇÃO",
+        "description": "Chefe da tribo nômade Tarkatânea, um povo carnívoro considerado sub-humano pelo Império da Exoterra. Baraka serve obedientemente a Shao Kahn para preservar o estilo de vida da tribo, que vagueia pelas áridas Terras Desoladas empurrando carros de carne, consumindo tudo e todos que cruzam seu caminho."
+      }
+    },
+    {
+      "id": "12",
+      "avatar": "/img/mk/frost.jpg",
+      "results": {
+        "image": "/img/mk/frost-person.png",
+        "name": "Frost",
+        "objective": "REBELDIA",
+        "description": "A aprendiz mais perigosa do Grão-mestre Sub-Zero. Quando Sub-Zero travou um acordo de paz histórico com o inimigo de seu clã, Scorpion, Frost questionou a capacidade de liderança do grão-mestre. Foi derrotada e banida por Sub-Zero. Frost passou anos em busca do poder necessário para destruí-lo, e agora tem esse poder."
+      }
+    }
+  ]
+}
