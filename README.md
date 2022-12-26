@@ -41,6 +41,9 @@ $ npm run dev or yarn dev
   <img alt="MK" title="#Mortal-Kombat" src="./project/mortal-kombat.gif" />
 </h1>
 
+</br>
+</br>
+
 <h1 align="center">
   <img alt="MK" title="#Mortal-Kombat" src="./project/projeto.png" />
 </h1>
