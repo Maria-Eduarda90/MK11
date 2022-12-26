@@ -4,6 +4,7 @@ import { api } from '../lib/api';
 import Link from 'next/link';
 
 import styles from './styles.module.scss';
+import { useEffect } from 'react';
 
 type Characters = {
   id: string;
@@ -17,6 +18,17 @@ type HomeType = {
 }
 
 export default function Home({ latestCharacters, allCharacters }: HomeType) {
+
+  useEffect(() => {
+    const teste = latestCharacters.map(character => character.name);
+    console.log(teste);
+    if(teste[0] === "Sub-Zero"){
+      const li = document.querySelector("li");
+      console.log(li)
+      li.style.filter = "drop-shadow(5px 5px 5px #498fff)";
+    }
+  }, [])
+
   return (
     <div className={styles.container}>
       <section>
