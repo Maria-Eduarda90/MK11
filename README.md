@@ -38,9 +38,9 @@ $ npm run dev or yarn dev
 </h1>
 
 <h1 align="center">
-  <img alt="MK" title="#Mortal-Kombat" src="./project/projeto.png" />
+  <img alt="MK" title="#Mortal-Kombat" src="./project/mortal-kombat.gif" />
 </h1>
 
 <h1 align="center">
-  <img alt="MK" title="#Mortal-Kombat" src="./project/mortal-kombat.gif" />
+  <img alt="MK" title="#Mortal-Kombat" src="./project/projeto.png" />
 </h1>
