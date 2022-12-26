@@ -33,7 +33,7 @@ export default function Home({ latestCharacters, allCharacters }: HomeType) {
                   alt={character.name}
                 />
 
-                <Link href="/">
+                <Link href={`/characters/${character.id}`}>
                   {character.name}
                 </Link>
               </li>
@@ -55,7 +55,7 @@ export default function Home({ latestCharacters, allCharacters }: HomeType) {
                   alt={character.name}
                 />
 
-                <Link href="/">
+                <Link href={`/characters/${character.id}`}>
                   {character.name}
                 </Link>
               </li>
