@@ -4,7 +4,7 @@
       "id": "1",
       "avatar": "/img/mk/sub-zero.jpg",
       "results": {
-        "image": "/img/mk/sub-zero-person.pngs",
+        "image": "/img/mk/sub-zero-person.png",
         "name": "Sub-Zero",
         "objective": "REDENÇÃO",
         "description": "Grão-mestre do clã Lin Kuei. Kuai Liang venceu a morte para redimir seu clã do mal cometido por Sektor e pelos Lin Kuei cibernéticos. Ele reconstruiu os Lin Kuei e negociou a paz com os rivais Shirai Ryu. Agora, ele espera finalmente encerrar o capítulo pecaminoso do passado dos Lin Kuei."
@@ -67,7 +67,7 @@
         "image": "/img/mk/kitana-person.png",
         "name": "Kitana",
         "objective": "IDENTIDADE",
-        "description": "Assassina de 10.000 anos e princesa da Exoterra. Shao Kahn casou com a mãe de Kitana e criou a menina como sua herdeira, escondendo o fato de que assassinou o pai dela para conquistar Edenia. Agora que a verdade veio à tona, Kitana luta para vingar o pai.."
+        "description": "Assassina de 10.000 anos e princesa da Exoterra. Shao Kahn casou com a mãe de Kitana e criou a menina como sua herdeira, escondendo o fato de que assassinou o pai dela para conquistar Edenia. Agora que a verdade veio à tona, Kitana luta para vingar o pai..."
       }
     },
     {
