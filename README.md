@@ -18,10 +18,10 @@
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/Maria-Eduarda90/MK11-Characters>
+$ git clone <https://github.com/Maria-Eduarda90/MK11>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd MK11-Characters
+$ cd MK11
 
 # Instale as dependências
 $ npm i or yarn
