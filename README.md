@@ -40,5 +40,3 @@ $ npm run dev or yarn dev
 <h1 align="center">
   <img alt="MK" title="#Mortal-Kombat" src="./project/mortal-kombat.gif" />
 </h1>
-
-</br>
