@@ -18,7 +18,7 @@
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/Maria-Eduarda90/MK11>
+$ git clone <https://github.com/Maria-Eduarda90/MK11 >
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd MK11
