@@ -20,11 +20,9 @@ type HomeType = {
 export default function Home({ latestCharacters, allCharacters }: HomeType) {
 
   useEffect(() => {
-    const teste = latestCharacters.map(character => character.name);
-    console.log(teste);
-    if(teste[0] === "Sub-Zero"){
+    const characters = latestCharacters.map(character => character.name);
+    if(characters[0] === "Sub-Zero"){
       const li = document.querySelector("li");
-      console.log(li)
       li.style.filter = "drop-shadow(5px 5px 5px #498fff)";
     }
   }, [])
