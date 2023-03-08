@@ -13,6 +13,7 @@
 - Sass
 - Typescript
 - Axios
+- json-server
 
 </br>
 
@@ -38,6 +39,12 @@ $ npm run dev or yarn dev
 <h1 align="center"> 
 	Projeto  
 </h1>
+
+<h1 align="center">
+  <img borderRadius="4px" alt="MK" title="#Mortal-Kombat" src="./project/projeto.png" />
+</h1>
+
+</br>
 
 <h1 align="center">
   <img alt="MK" title="#Mortal-Kombat" src="./project/mortal-kombat.gif" />
